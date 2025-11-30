@@ -1,12 +1,2 @@
-The OSI (Open Systems Interconnection) model is a conceptual framework 
-used to understand network communications. 
-
-It has 7 layers organized from the lowest to the highest:
-
-1. Physical - transmits raw bits over a medium (cables, radio, etc.)
-2. Data Link - reliable transmission of frames between nodes
-3. Network - routing of packets (IP, ICMP)
-4. Transport - end-to-end communication (TCP, UDP)
-5. Session - manages sessions between applications
-6. Presentation - translates data for applications (encryption, encoding)
-7. Application - high-level protocols like HTTP, SMTP, FTP
+2
+2
